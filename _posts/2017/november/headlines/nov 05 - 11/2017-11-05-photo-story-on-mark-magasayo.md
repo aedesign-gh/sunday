@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Photo story on Mark Magasaya'
+title: 'Photo story on Mark Magsayo'
 category: headlines
 image: true
 hl-title: 'HOMECOURT ADVANTAGE. '
