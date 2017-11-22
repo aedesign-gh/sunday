@@ -32,7 +32,7 @@ title: Bohol Sunday News
                <img src="/assets/img{% if post.image %}{% if post.image-cat %}/{{ post.image-cat }}{% else %}{{ post.url }}{% endif %}.jpg{% else %}/no-prev.jpg{% endif %}">
             </figure>
             <div class='text'>
-               <a class='title' href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
+               <a class='title' href='{{ site.url }}{{ post.url }}'>{{ post.title | truncate:60 }}</a>
                <div class='extra'>
                   <a class='cat' href='{{ site.url }}/{{ post.category }}'>{{ post.category | replace: '-', ' ' }}</a>
                   <span class='author'>{{ site.data.settings.title }}</span>
