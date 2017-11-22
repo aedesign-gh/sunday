@@ -4,6 +4,7 @@ title: 'Aris set for London to join world travel mart'
 category: top-stories
 image: true
 dated: 0ct 29 - 04, 2017
+archive: true
 ---
 
 By JUNE S. BLANCO

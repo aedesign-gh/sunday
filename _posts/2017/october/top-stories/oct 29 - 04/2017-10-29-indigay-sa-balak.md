@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: 'Statue of the late Pres. Carlos P. Garcia'
 dated: 0ct 29 - 04, 2017
+archive: true
 ---
 
 As a tribute to Bohol’s Most Illustrious Son, Pres. Carlos Polistico Garcia, a literary contest called‘IndigaysaBalak’is set Nov. 3 at 1:30 in the afternoon at the CPG Heritage Grounds.

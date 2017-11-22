@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: 'Photo above shows the SangguniangPanlalawigan of Bohol in a regular session.'
 dated: 0ct 29 - 04, 2017
+archive: true
 ---
 
 The provincial government of Bohol is eyeing for a P2.9-billion annual provincial budget for 2018 and has in fact submitted it to the SangguniangPanlalawigan of Bohol.
