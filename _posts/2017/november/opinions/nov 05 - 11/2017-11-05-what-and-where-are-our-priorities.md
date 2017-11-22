@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 For Boholanos who don’t travel much within the province of Bohol, news of bridges being constructed or repaired, roads being paved or re-blocked are pleasant to the ears.  It gives assurance to the listeners or readers of the news that their government is a caring government.  But to those who travel a lot either by driving their own vehicle or just commuting, the question that they ask upon reading or hearing the news is “What and where the priorities of government are?”

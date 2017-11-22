@@ -3,7 +3,8 @@ layout: post
 title: 'Instill CPG virtues to next gen – Aris'
 category: headlines
 image: true
-dated: Nov 05 - Nov 11, 2017
+dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 By JUNE S. BLANCO 

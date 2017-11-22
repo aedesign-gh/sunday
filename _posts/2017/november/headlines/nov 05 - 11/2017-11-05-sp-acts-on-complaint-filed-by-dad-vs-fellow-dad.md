@@ -3,7 +3,8 @@ layout: post
 title: 'SP acts on complaint filed by dad vs. fellow dad'
 category: headlines
 image: true
-dated: Nov 05 - Nov 11, 2017
+dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 The committee on good government was tasked last Friday by the Sangguniang Panlalawigan of Bohol to look into the complaint filed by a town kagawad against his fellow kagawad in Jagna town.

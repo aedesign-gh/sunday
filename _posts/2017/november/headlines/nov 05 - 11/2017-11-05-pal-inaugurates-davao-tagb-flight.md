@@ -5,7 +5,8 @@ image: true
 category: headlines
 hl-title: 'DIRECT FLIGHT. '
 hl-desc: 'Gov. Edgar M. Chatto is shown above welcoming Cabinet Sec. Leoncio B. Evasco who was among the passengers of the inaugural flight from Davao City during the All Saints Day last Wednesday morning.'
-dated: Nov 05 - Nov 11, 2017
+dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 Gov. Edgar M. Chatto led Bohol in welcoming passengers of the inaugural flight from Davao-Tagbilaran of Philippine Airlines today which included no less than Cabinet Sec.LeoncioB. Evasco.

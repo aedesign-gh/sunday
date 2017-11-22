@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 31st Sunday of the Year(cycle A)

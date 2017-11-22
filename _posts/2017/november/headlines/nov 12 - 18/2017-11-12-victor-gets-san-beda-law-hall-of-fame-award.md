@@ -5,7 +5,8 @@ category: headlines
 image: true
 hl-title: ''
 hl-desc: "Atty. Victor S. de la Serna and his former student, Pres. Duterte as shown in the file photo during the latter’s visit in Malacanang Palace late last year."
-dated: Nov 12 - Nov 18, 2017
+dated: Nov 12 - 18, 2017
+archive: true
 ---
 
 “Sic transit gloria mundi” (thus passes the glory of the world), thus exclaimed Atty. Victor S. de la Serna upon being notified last week that he has been elevated to the Hall of Fame of the San Beda Law in Manila.

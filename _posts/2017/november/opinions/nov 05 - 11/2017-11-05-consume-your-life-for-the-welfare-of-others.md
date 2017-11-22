@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 The Gospel of Jesus Christ (Nov. 5, 2017-Sunday) Mark 12:18-27- If a man's brother die, and leave [his] wife [behind him], and leave no children, that his brother should take his wife, and raise up seed unto his brother. Now there were seven brethren: and the first took a wife, and dying left no seed. And the second took her, and died, neither left he any seed: and the third likewise. And the seven had her, and left no seed: last of all the woman died also. In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife:

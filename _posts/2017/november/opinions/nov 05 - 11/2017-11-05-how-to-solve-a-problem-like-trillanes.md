@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Nov 05 - 11, 2017
+archive: true
 ---
 
 When we started to write about Sen. Antonio Trillanes III, Chinky C. Fuentes, wife of kumpadreChito A. Fuentes, came up with a post in her Facebook account about the no. 1critic of Pres. Duterte (after Sen. Leila Delima was incarcerated).
