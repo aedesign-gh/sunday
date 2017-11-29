@@ -4,6 +4,7 @@ title: 'City LTO in roll outon new license with 5 year validity'
 category: headlines
 image: true
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 The regional office of the Land Transportation Office (LTO) announced last week the inclusion of the LTO office in the city as among the roll-out of driver’s license with five-year validity.

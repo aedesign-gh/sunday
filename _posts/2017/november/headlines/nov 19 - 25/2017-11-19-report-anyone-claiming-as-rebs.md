@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "Col. Eufracio Malig Jr. advises Boholanos to remain calm but report to them anyone who would claim to be NPAs so the person could be invited for questioning. Boholanos have complained about men claiming to be NPAs and asking for cash and weapons and fear for their lives. (rahc/PIA-7/Bohol)"
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Anyone who would claim to be a member of any of the rebel groups should  be reported, Bohol Gov. Edgar M. Chatto reminded everyone during the meeting of the Provincial Peace and Order Council (PPOC) at the Governor's Mansion last week.

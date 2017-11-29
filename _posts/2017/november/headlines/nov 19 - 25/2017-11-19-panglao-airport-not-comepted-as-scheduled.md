@@ -4,6 +4,7 @@ title: 'Panglao airport not completed as scheduled'
 category: headlines
 image: true
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Panglao airport insider: project unfinished as set
