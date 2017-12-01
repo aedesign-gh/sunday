@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In sports... Magsayo wins via anonymous decision'
+title: 'In sports... Magsayo wins via unanimous decision'
 category: headlines
 image: true
 hl-title: ''
