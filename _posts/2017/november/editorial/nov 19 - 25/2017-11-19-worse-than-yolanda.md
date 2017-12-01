@@ -4,6 +4,7 @@ title: 'Worse than Yolanda'
 category: editorial
 image: true
 dated: Nov  05 - 11, 2017
+archive: true
 ---
 
 Four years after typhoon Yolanda devastated Tacloban City and all the other places along its path, there is still no closure.

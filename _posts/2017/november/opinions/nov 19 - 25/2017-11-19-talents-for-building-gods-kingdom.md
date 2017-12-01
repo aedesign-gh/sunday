@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 33rd Sunday of the Year(cycle A)

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Last week, we went to Inambacan Falls in Antequera town. The owner of the land where the falls is situated who served as the caretaker of his ancestral estate wailed that the cave where the water of the fall comes out is being looted by burglars. He said the pristine chalk-while stalactites and stalagmites that for years had been inside the cave were being pried off and carted away by robbers.

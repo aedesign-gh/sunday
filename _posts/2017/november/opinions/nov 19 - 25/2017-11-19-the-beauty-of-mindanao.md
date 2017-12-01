@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Savouring the beauty of Mindanao 

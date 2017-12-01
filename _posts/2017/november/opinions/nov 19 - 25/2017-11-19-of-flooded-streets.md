@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Of flooded streets and traffic lights
