@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 Lately, Senator AntonioTrillianes IV suggested that the social media accounts of all supporters of Pres. Rodrigo R. Duterte are to be deactivated.

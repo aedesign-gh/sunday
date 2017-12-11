@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 Seven months ago I got really sick after eating seafood, chicken and meat. I decided to become a vegetarian. I thought about enjoying the 20% discounts for senior citizens in less than ten years from today; hence, the decision. God bless my hopes to serve more with Christian love. I’m not imposing my own ideas on anyone, just sharing.

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 Return of the King

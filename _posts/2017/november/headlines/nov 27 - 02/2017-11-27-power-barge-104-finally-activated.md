@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "POWER BARGE 104 moored in Tapal port, Ubay taken during the inspection of Rep. Aris C. Aumentado last month."
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 POWER BARGE 104 moored in Tapal port, Ubay taken during the inspection of Rep. Aris C. Aumentado last month.

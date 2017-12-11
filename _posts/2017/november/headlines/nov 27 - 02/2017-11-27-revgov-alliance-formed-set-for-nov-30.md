@@ -4,6 +4,7 @@ title: 'RevGov alliance formed, set for Nov. 30'
 category: headlines
 image: true
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 An alliance supporting the establishment of a revolutionary government called by Pres. Duterte was formed here last week in time for the one time, big time mass movement on Nov. 30.

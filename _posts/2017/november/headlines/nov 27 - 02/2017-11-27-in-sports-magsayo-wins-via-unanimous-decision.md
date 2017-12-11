@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "Mark Magsayo raises his fists in the left photo at the close of the 12th round after battling the Japanese Shota Hayashi as shown in the right photo."
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 Homegrownfavorite Mark “Magnifico”Magsayo retains his World Boxing Organization International Featherweight Championship belt after 12 rounds of slugfest with Japanese Featherweight Champion Syota Hayashi to the contentment of Boholanos filling the Bohol Wisdom School Gymnasium last Saturday, Nov. 25.

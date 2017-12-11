@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 Last week the hot issue in Panglao was the construction of the Ivy Wall Resort and Hotel in what was once the Playa Blanca at the beach zone of Brgy. Danao in Panglao.  The construction of the 12-storey building of DataLand Inc. on a 1,637 sqm. beach zone caught the attention of other resort owners and the Chamber of Commerce and Industry of Panglao because of its possible negative impact on the environment.  They raised the issue direct to Mayor Nila Montero of Panglao, who called an executive-legislative meeting to thresh out the issue.  After the meeting, a consensus was reached to allow the construction of the building while certain “grey areas” surrounding the height limitations are being threshed out.

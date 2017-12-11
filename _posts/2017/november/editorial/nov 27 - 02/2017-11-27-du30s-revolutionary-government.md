@@ -4,6 +4,7 @@ title: 'DU30’s revolutionary government'
 category: editorial
 image: true
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 DU30’s revolutionary government

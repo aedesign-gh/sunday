@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 The Gospel of Jesus Christ (Nov. 26, 2017-Sunday)John 21:1-14” They said to him, "We will also come with you." They went out and got into the boat; and that night they caught nothing. But when the day was now breaking, Jesus stood on the beach; yet the disciples did not know that it was Jesus. So Jesus said to them, "Children, you do not have any fish, do you?" They answered Him, "No." And He said to them, "Cast the net on the right-hand side of the boat and you will find a catch." So they cast, and then they were not able to haul it in because of the great number of fish.

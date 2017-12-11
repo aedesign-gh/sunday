@@ -4,6 +4,7 @@ title: 'City’s budget next year is more than P1 billion'
 category: headlines
 image: true
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 The city government annual budget next year stands more than P1 billion as approved by the SangguniangPanlungsod last week. 

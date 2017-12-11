@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "The AgRIDOCgraduates together with the training staff headed by Dr. Carolyn May O. Daquio, their families together with Anthony R. Damalerio, representative of Gov. Edgar Chatto and Alvin Luis Alcosar of City Mayor Baba Yap"
 dated: Nov 27 - Dec 02, 2017
+archive: true
 ---
 
 By DORIS ISABEL J. RACHO
