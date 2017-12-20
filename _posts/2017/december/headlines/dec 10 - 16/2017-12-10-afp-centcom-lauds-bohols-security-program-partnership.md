@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'WITH THE GENERALS. '
 hl-desc: 'Photo above shows Bohol Gov. Edgar M. Chattobeing flanked by Lt. Gen. Rey Leonardo Guerrero, AFP chief of staff together with the top brassesof the Philippine National Police (PNP) led by P/Chief Supt. Jose Mario Espino during change of command and retirement ceremony at Central Command  (CENTCOM) in Cebu City. Lt. Gen. Oscar Lactao, replaced by Maj. Gen. Paul Atal as AFP CENTCOM chief, lauded Bohol as an example of strong partnership of the AFP, PNP and the provincial government.'
 dated: Dec 10 - 16, 2017
+archive:  true
 ---
 
 AFP CentCom lauds 

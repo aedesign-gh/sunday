@@ -4,6 +4,7 @@ title: 'Powerhouse haul in teachers board'
 image: true
 category: headlines
 dated: Dec 10 - 16, 2017
+archive:  true
 ---
 
 Powerhouse Training and Review Center (PTRC) here posted one of its biggest haul in the recent teachers board examination, according to reports reaching Bohol Sunday News last week.

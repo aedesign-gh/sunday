@@ -4,6 +4,7 @@ title: 'Increase of HIV/AIDS victims'
 category: editorial
 image: true
 dated: Dec 03 - Dec 09, 2017
+archive: true
 ---
 
 Based on the recent report by the Department of Health (DOH), out of the four provinces in the region, Bohol ranked second in terms of the highest number of Human Immunodeficiency Virus (HIV) and Acquired Immune Deficiency Syndrome (AIDS) cases.

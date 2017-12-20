@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'FAN, SAND AND FUN. '
 hl-desc: 'The crystal clear water and white sand on Panglao Beach leave Miss Universe 2017 candidates–Miss Philippines Rachel Peters, Miss Russia KseniyaAlexandrova and Miss Malaysia Samantha James—spell-bound as they visited Bohol province on Friday. (Leo Udtohan/Inquirer Visayas)'
 dated: Dec 10 - 16, 2017
+archive:  true
 ---
 
 Is tarsier a monkey?

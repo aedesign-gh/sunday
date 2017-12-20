@@ -3,6 +3,7 @@ layout: post
 title: 'AWRA rolls out media awards in Christmas party'
 category: headlines
 dated: Dec 10 - 16, 2017
+archive:  true
 ---
 
 The Association of Writers and Radio Announcers (AWRA) will roll out media awards during their Christmas Party at Reyna’s Restaurant this coming Saturday.

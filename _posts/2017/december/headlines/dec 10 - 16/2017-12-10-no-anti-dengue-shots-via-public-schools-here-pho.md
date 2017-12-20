@@ -4,6 +4,7 @@ title: 'No anti-dengue shots via public schools here –PHO'
 image: true
 category: headlines
 dated: Dec 10 - 16, 2017
+archive:  true
 ---
 
 As far as the Provincial Health Office (PHO) here, the trials for the anti dengue vaccine did not reach Bohol according to reports reaching Bohol Sunday News last week said. 
