@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Dec 10 - 16, 2017
+archive: true
 ---
 
 Special Gospel of the Day (Dec.3, 2017-Sunday) John 4:43-54” As he was now going down, his slaves met him, saying that his son was living. So he inquired of them the hour when he began to get better. Then they said to him, "Yesterday at the seventh hour the fever left him." 

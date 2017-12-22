@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Dec 10 - 16, 2017
+archive: true
 ---
 
 Cabinet Sec.LeoncioB. Evasco,Jr., the second top ranking official of the land and the privy of Pres. Rodrigo R. Duterte, disclosed last Monday during the opening of Escuela Taller in Mariobjoc that the president is grateful to the Boholanos because 80 percent of theBoholano electorates voted for him as president of the Philippines. 

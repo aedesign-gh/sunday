@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Dec 10 - 16, 2017
+archive: true
 ---
 
 1stSunday of Advent (cycle A)
