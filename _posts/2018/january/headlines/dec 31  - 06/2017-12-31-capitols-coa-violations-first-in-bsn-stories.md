@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Capitol’s COA violations first in BSN stories'
+image: true
+category: headlines
+dated: Dec 31, 2017 - Jan 6, 2018
+---
+
+As the year 2017 comes to its close, it is but proper to look back the top ten stories reported in the Bohol Sunday News, now entering its third year of existence as your independent local newspaper in Bohol.
+
+1. While others recapitulate in a different vantage point, the continued violations of the Commission on Audit (COA) by the provincial government ranks first in our official listing. The purchase of a generator set was considered as a waste of funds in COA’s audit report. The printing of movable tents with the faces of the governor and the former vice-governor as well as the printing of calendars were both considered as violative of the COA rules and regulations. This and many more violations of the Capitol ranks on top of our news stories for 2017.
+
+2. The entry of the bandit group Abu Sayyaf Group (ASG) in this peaceful island province simply because our leaders wanted to take an active part in the Association of Asean Nations (ASEAN) summit this year. Members of the dreaded ASG entered the river in Ylaya, Napo, Inabanga through a local contact identified as the late JoselitoMilloria with the aim of kidnapping the ASEAN delegates and distribute illegal drugs here. The ASG story here ended with the annihilation of the group in the land of Francisco Dagohoy, a native of Inabanga town.
+
+3. Prior to the entry of the ASG here, there was hatred, sorrow and depression when one of the lady lawyers here, identified with the environmental group, died in the hands of assailant in broad day light. Atty. Mia Manuelita C. Mascarinas-Green was peppered with bullets from her killers right in front of her children. One of the alleged mastermind in the killing of Atty. Green, Lloyd Lancer Gonzaga was already captured, but the actual gunman remains to be at large.
+
+4. Allow us to insert here the entry of the Bohol Sunday News as a probationary member of the Philippine Press Institute (PPI), a national organization of newspapers established in 1964. The editor-publisher of this paper personally went to Manila in order to receive the Certificate of Membership from PPI Chairman Alfonso G. Pedoche last May 25 at the H20 Hotel in Manila.
+
+5. Then came an order from the Ombudsmandirecting the suspension of nine months oftop Capitol officials including Vice Gov. Dionisio D. Balite and Provincial Administrator AeDamalerio, Maribojoc Vice-Mayor Jose Veloso, Loay Vice-Mayor BrigidoImboy, Dr.Yul Lopez who is now an executive assistant in the Office of the Governor and several others.They all served as board members during the term of the late Gov. Erico B. Aumentado when the provincial government sought to purchase heavy equipment using a letter of credit. The suspension is still in effect as of this moment.
+
+6. As a result of the incursion of the Abu Sayyaf Group (ASG) in Bohol, Pres. Rodrigo RoaDuterte made an unannounced visit to the province despite his earlier declaration that he will not visit here as he relayed the message to his former mentor, Atty. Victor de la Serna, in San Beda College. The President, who claims to have his roots in Bohol, promised not to visit as long as the leaders of the Liberal Party (LP) continue to rule the province. However, he made a quick visit here in order to get a briefing of the ASG incursion here and promised to give a ransom to the remaining ASG members who were still alive at that time. But the ransom money became the source of controversy later.
+
+7. The mysterious killing of Bien Unido Mayor Gisela BendongBoniel remains to be an unresolved issue until the close of 2017. Her remains are also unknown but her husband, Board Member Rey Nino Boniel has been tagged as her alleged killer and is presently incarcerated. The Bien Unido mayor gained highlights being a former commercial pilot who ran for town mayor and won in the political bailiwick of her husband. Her body was reportedly dumped in Lapulapu with the assistance of the relatives of the board member.
+
+8. The loss of Roman Catholic prelates rightfully places one of the top stories of the Bohol Sunday News. Bishop LeopoldoTumulak who served in the Diocese of Tagbilaran died last June 18 in Manila while serving as a military bishop of the Armed Forces of the Philippines. Then Loon-born Bishop Juan de Dios Pueblos also died in Manila while serving in the Diocese of Butuan. The former bishop of the Diocese of Talibon, Christian Vincent Noel, also returned to his creator. All of them perished in 2017.
+
+9. The earthquake which hit Ormoc later in the middle of 2017 led to a power crisis in Bohol, which wittingly, or unwittingly, the SangguniangPanlalawigan of Bohol declared the province under a state of calamity. For several weeks, Boholanos experienced what they had in 2013 when Bohol was hit by an earthquake and Leyte was hammered by Typhoon Yolanda and experienced power blackout. The unpreparedness of Bohol leaders was again displayed as power consumers were made to pay a higher rate just to have a power connection from the Dampas Diesel Power Grid and the Power Barge. Despite several meetings and discussions of the so-called Bohol Energy Development Advisory Group (BEDAG), Bohol is still hostaged to the power source in Leyte.
+
+10. Finally, we have to give credit where credit is due. The hosting of the ASEAN summit here exposes the coordination of the national and provincial government plus the Armed Forces of the Philippines (AFP), Philippine National Police (PNP), Philippine Coast Guard (PCG) and the Bureau of Fire Protection (BFP). On two occasions, Task Group Bohol was mobilized supported by the regional offices of line agencies sans any incidents affecting the security of the ASEAN leaders.
