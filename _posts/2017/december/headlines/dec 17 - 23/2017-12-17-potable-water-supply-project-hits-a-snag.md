@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'PANGLAO ISLAND '
 hl-desc: 'is a world-classtourism destination, yet it is a parched, dry land and badly needs potable water. (FILE PHOTO)'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 A much-awaited project of supplying potable water to the tourism island of Panglao hits a snag as a supposedly ‘ministerial’issuance of an excavation permit remained unsigned at the office of the governor.

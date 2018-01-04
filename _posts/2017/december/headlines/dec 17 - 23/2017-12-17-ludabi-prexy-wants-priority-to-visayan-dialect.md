@@ -4,6 +4,7 @@ title: "LUDABI prexy wants priority to Visayan dialect"
 image: true
 category: headlines
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 LUDABI prexy on Bisayan tongue up

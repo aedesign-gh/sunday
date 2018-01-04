@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'FIT 4 LIFE. '
 hl-desc: 'City Mayor Baba Yap is shown above presenting the certificate of appreciation to Dr.Stepehen Lopez of the Gov. CelestinoGallares Memorial Hospital during the official launching of the Fit 4 Life Hypertension and Diabetes Club last week.'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 A true-blue health buff, City Mayor John Geesnell "Baba" Yap through the City Health Office launched last weethe Fit 4 Life Hypertension and Diabetes Club. 

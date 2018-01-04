@@ -4,6 +4,7 @@ title: "PDP-Laban holds gab, party leadership row on"
 image: true
 category: headlines
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 Almost 200 city party members trooped to the Bohol Institute of Technology-International College (BIT-IC) yesterday to join the general assembly of the PartidoDemokratiko Pilipino-Lakasng Bayan (PDP-Laban).
