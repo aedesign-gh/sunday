@@ -4,6 +4,7 @@ title: 'Capitol’s COA violations first in BSN stories'
 image: true
 category: headlines
 dated: Dec 31, 2017 - Jan 6, 2018
+archive: true
 ---
 
 As the year 2017 comes to its close, it is but proper to look back the top ten stories reported in the Bohol Sunday News, now entering its third year of existence as your independent local newspaper in Bohol.

@@ -3,6 +3,7 @@ layout: post
 title: 'PRC administers biggest teachers oath-taking here'
 category: headlines
 dated: Dec 31, 2017 - Jan 6, 2018
+archive: true
 ---
 
 Through the initiative of Powerhouse Training and Review Center (PTRC) here, the biggest number of passers of the recent teachers’ examination took their oath before the Professional Regulations Commission (PRC) at the Holy Name University (HNU) gym last Thursday afternoon. 

@@ -3,6 +3,7 @@ layout: post
 title: 'Double-whammy for weather doomsayers'
 category: headlines
 dated: Dec 31, 2017 - Jan 6, 2018
+archive: true
 ---
 
 It may appear to be a double-whammy for the weather doomsayers who posted screaming news in both the local newspapers and social media last week regarding two brewing typhoons which would have destroyed Christmas Day and the New Year celebrations here.
