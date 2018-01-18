@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 “Human rights” has been in the news lately. And it is good. Even if a number of powerful people in our country had been known to have trampled on human rights, which is quite a sad story, still, it is good that we all think and talk about it.

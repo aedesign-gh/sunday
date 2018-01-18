@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 As we try to beat press time, we got a weather update that another storm is on its way to the Visayas, this time, stronger than the existing Urduja.

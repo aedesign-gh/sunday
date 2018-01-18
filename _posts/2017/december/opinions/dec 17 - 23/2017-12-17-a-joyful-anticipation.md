@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 3rdSunday of Advent (cycle B)

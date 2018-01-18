@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 Last week we motored to Dimiao town to visit a friend who celebrated his birthday. After lunch my friend brought me to the side of their town church where there was an “Ermita” which was recently declared a national heritage by the National Historical Commission.

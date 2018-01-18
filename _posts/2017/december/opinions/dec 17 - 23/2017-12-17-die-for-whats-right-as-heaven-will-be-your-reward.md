@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 Special Gospel of the day (Dec. 17, 2017-Sunday) Matthew 1:18-24” Then Joseph her husband, being a just [man], and not willing to make her a public example, was minded to put her away privately. But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shall call his name JESUS.

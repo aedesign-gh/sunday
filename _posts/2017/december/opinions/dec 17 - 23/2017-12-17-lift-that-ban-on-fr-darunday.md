@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 For some packs of cigarette and dried tobacco leaves that the Jail Guards found inside a package brought by Fr. James Darunday inside the Bohol District Jail (BDJ) a few week ago, he is now permanently banned from performing his ministry inside the BDJ.

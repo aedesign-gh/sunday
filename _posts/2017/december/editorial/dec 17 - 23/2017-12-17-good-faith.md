@@ -4,6 +4,7 @@ title: "Good faith"
 image: true
 category: editorial
 dated: Dec 17 - 23, 2017
+archive: true
 ---
 
 Listening to the self-proclaimed "disente" crowd led by no less than the ex-president himself, you are tempted to think they should in fact be congratulated for the infamous P3.5 billion dengvaxia scandal.
