@@ -1,6 +1,15 @@
 <!DOCTYPE html >
 <html lang='en'>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113620127-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113620127-2');
+</script>
    <title>{{ page.title }}{% if page.layout == 'default' and page.title != site.data.settings.title %} · {{ site.data.settings.title }}{% endif %}{% if page.layout == 'post' %} · {{ site.data.settings.title }}{% endif %}</title>
    <meta charset='utf-8'>
    {% if page.layout != 'post' %}
