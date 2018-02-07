@@ -4,6 +4,7 @@ title: "Bohol solon ‘angered’ by new Sandigan case"
 image: true
 category: headlines
 dated: Jan 21 - 27, 2018
+archive: true
 ---
 
 Rep. Arthur C. Yap (3rd District, Bohol) last week said he was angry with the filing of a new graft charges against him with the Sandiganbayan as it was meant for political harassment.

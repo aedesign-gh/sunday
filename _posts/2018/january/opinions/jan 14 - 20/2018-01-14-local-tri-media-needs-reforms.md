@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 As we re-joined the BoholTri-Media Association (BTMA) as its legal counsel and member of the board, we see a lot of concerns in the media group which needs reforms.

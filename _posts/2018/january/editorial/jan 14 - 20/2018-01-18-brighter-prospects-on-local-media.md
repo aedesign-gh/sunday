@@ -3,6 +3,7 @@ layout: post
 title: "Brighter prospects on local media"
 category: editorial
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 In the past, we have been propagating on how divided is the local media when it comes to local governance.

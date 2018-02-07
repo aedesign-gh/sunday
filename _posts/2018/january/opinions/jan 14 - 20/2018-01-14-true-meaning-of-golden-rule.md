@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 

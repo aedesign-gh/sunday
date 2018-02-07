@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'CHANGING OF THE GUARDS. '
 hl-desc: 'P/Sr. Supt. Angeles Geñorga (right) assumed early this week as the new PNP provincial director of Bohol replacing P/Sr. Supt. Felipe R.Natividad (left) who will assume a post in Camp Crame. In the middle conducting the turn-over is P/Chief Supt. Jose Mario Espino, PNP-7 regional director as Bohol Gov. Edgar M. Chatto (seated, partly hidden) and City Mayor Baba Yap  look on. (Photo: EDCOM)'
 dated: Jan 21 - 27, 2018
+archive: true
 ---
 
 New Bohol PNP prov’l director assumes post 

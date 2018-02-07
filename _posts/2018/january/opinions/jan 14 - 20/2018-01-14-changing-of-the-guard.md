@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 Col. Ignacio Madriaga assumed as the new Commanding Officer of the 302nd Brigade of the AFP based in Katipunan, Carmen last Thursday.  Col. Madriaga took over from BGen. Arnulfo Matanguihan who was promoted as Assistant Division Commander of the 9th Infantry Division, AFP with headquarters in the Bicol Region.  

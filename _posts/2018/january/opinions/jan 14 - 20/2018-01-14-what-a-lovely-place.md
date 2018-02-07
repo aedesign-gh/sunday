@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 Last week we motored to Danao town to see the place for the first time since this town seemed figuratively at the last frontier of Bohol. Its distance from the city which is at the heartland of Bohol made you feel going there as if you are heading at a place of no return. When I was young, there was no other way to get to Danao but from Carmen town only. Folks related that to get there was scary because most of the road was on the top of the ridge which they called “buko-bukosakabaw” because both sides sloop down to the deep valleys below. 

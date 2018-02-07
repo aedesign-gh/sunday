@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Jan 14 - 20, 2018
+archive: true
 ---
 
 2nd Sunday of Ordinary Time (cycle B)
