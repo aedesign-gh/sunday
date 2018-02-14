@@ -3,6 +3,7 @@ layout: post
 title: 'DOJ to build separate building'
 category: headlines
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 The Department of Justice will soon construct its own new separate building apart from the Hall of Justice.

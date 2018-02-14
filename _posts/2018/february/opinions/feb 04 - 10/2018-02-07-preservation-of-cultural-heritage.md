@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 There was an old hexagonal two-storey stone brick building at the tip of the ancient wharf in Maribojoc town. Large square stones were piled one on top of the other to support the second storey. A vignette of leaves were carved on the stone door jamb. The door panels were made of thicksingle slab of a local hardwood. The second floor had large windows with lattice as walls for free movement of air and to withstand strong winds from the sea. It was constructed during the Spanish period.

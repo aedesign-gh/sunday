@@ -3,6 +3,7 @@ layout: post
 title: 'Coast Guard rescues 29 Chinese nationals in Balicasag Island'
 category: headlines
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 PANGLAO.- The Philippine Coast Guard (PCG) substation here rescued 29 Chinese nationals last Thursday afternoon who were on an island-hopping in Balicasag Island.

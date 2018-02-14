@@ -3,6 +3,7 @@ layout: post
 title: "Raffling the Rappler"
 category: editorial
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 We reserve this article dedicated to Maria Ressa, the woman behind the online publicationRappler.

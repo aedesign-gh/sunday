@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Feb. 4, 2018-Sunday) Mark 1:40-45”And a leper came to Jesus, beseeching Him and falling on his knees before Him, and saying, "If you are willing, You can make me clean." Moved with compassion, Jesus stretched out His hand and touched him, and said to him, "I am willing; be cleansed." Immediately the leprosy left him and he was cleansed.

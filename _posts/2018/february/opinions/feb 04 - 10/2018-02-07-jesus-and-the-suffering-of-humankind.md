@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 5thSunday of Ordinary Time (cycle B)

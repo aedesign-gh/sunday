@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 For the last two days since Friday, we have been hostage by the Mandatory Continuing Legal Education (MCLE) held at the Bohol Tropics Resort this city.

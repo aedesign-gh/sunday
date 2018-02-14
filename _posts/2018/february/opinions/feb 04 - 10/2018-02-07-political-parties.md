@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 BoniQuirog, Ph.D.

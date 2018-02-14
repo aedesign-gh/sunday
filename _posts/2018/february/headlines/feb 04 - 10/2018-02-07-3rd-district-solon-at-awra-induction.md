@@ -4,6 +4,7 @@ title: '3rd district solon at AWRA induction'
 image: true
 category: headlines
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 Rep. Arthur C. Yap of Bohol’s third district will be the inducting officer and guest of honor during the oath-taking of new-elected officers of the Associatio of Writers and Radio Announcers Foundation Inc. (AWRAFI) and its allied groups on Saturday at Panda Tea in Dao district this city.

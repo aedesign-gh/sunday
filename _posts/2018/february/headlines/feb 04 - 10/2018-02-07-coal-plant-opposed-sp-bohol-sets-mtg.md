@@ -3,6 +3,7 @@ layout: post
 title: 'Coal plant opposed, SP-Bohol sets mtg.'
 category: headlines
 dated: Feb 04 - 10, 2018
+archive: true
 ---
 
 A multi-sectoral group issued a manifesto last week opposing the planned coal-fired power source in the province.
