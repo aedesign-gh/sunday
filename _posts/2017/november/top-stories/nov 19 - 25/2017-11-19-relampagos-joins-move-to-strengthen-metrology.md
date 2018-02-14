@@ -4,6 +4,7 @@ title: 'Relampagos joins move to strengthen metrology'
 category: top-stories
 image: true
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Rep. Rene L. Relampagos (1st District, Bohol) joined the move last week for the strengthening of metrology in the country. 

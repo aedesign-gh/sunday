@@ -4,6 +4,7 @@ title: 'Cabinet Sec. Jun  Evasco, Cong. Aris Aumentado to TIEZA study all possib
 category: top-stories
 image: true
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 By JUNE S. BLANCO

@@ -4,6 +4,7 @@ title: 'Judge Dangoy dies, 67'
 category: top-stories
 image: true
 dated: Nov 19 - 25, 2017
+archive: true
 ---
 
 Judge Cecilio O. Dangoy died last Friday dawn due to a lingering illness at the age of 67.
