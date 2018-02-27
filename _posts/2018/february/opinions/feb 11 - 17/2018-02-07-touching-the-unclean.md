@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 6th Sunday of Ordinary Time (Cycle A)

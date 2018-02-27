@@ -3,6 +3,7 @@ layout: post
 title: 'DA funds molecular lab in bid as dairy capital'
 category: top-stories
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 The Department of Agriculture (DA) is funding the construction and operation of a genetic molecular laboratory here in Bohol, at the Ubay Stock Farm (USF) in Ubay town. 

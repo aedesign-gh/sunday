@@ -6,6 +6,7 @@ image: true
 hl-title: 'DOJ-IBP OUTREACH PROGRAM. '
 hl-desc: 'Usec. Erickson Balmes of the Department of Justice (DOJ) is shown above turning over the livelihood kits to Atty. Warren Yap, IBP-Bohol president at the Bohol Tropics Resort this city last Friday afternoon for the joint outreach program. The ceremony was witnessed by the provincial and city prosecutors and the incumbent IBP-Bohol officers. Balmes was also one of the lectures of the Mandatory Continuing Legal Education (MCLE) seminar attended by more than 120 Bohol lawyers. (Photo: IBP-Bohol Chapter)'
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 Used. Erickson Balmes of the Department of Justice (DOJ) arrived here last Friday to lecture on the Mandatory Continuing Legal Education (MCLE) and hold a dialogue with the provincial and city prosecutors.

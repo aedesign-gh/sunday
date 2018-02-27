@@ -4,6 +4,7 @@ title: 'Bohol honors great Maryo'
 category: top-stories
 image: true
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 Bohol conferred a posthumous award to the late multi-awarded movie and television director Maryo delos Reyes for giving pride and honor to his province and country in culture and arts.

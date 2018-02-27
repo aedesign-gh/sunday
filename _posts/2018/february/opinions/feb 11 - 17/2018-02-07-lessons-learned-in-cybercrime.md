@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 Well, we practically survived the four-day Mandatory Continuing Legal Education (MCLE) in order to comply with the sixth compliance period as mandated by Bar Matter No. 850.

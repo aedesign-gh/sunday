@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
  The Gospel of Jesus Christ ( Feb.11, 2018-Sunday) Mark 8:11-13”The Pharisees came out and began to argue with Him, seeking from Him a sign from heaven, to test Him. Sighing deeply in His spirit, He said, "Why does this generation seek for a sign? Truly I say to you, no sign will be given to this generation." Leaving them, He again embarked and went away to the other side.

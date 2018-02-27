@@ -3,6 +3,7 @@ layout: post
 title: 'Anda mayor seeks MR on overprice complaint'
 category: headlines
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 ANDA.- Mayor Angelina "Inday" Simacio of this town already filed a motion for reconsideration last week on her indictment of graft charges by the Ombudsman.

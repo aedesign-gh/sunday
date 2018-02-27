@@ -3,6 +3,7 @@ layout: post
 title: "Why still claim as insurgency free?"
 category: editorial
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 In several issues back, we asked if there is a jinx whenever Bohol is already classified as no longer insurgency free.

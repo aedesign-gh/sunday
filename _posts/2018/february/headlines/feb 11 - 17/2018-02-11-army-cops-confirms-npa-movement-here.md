@@ -3,6 +3,7 @@ layout: post
 title: 'Army, cops confirms NPA movement here'
 category: headlines
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 The cat is finally out of the bag: both the military and the police authorities here confirmed last week that elements of the underground movement are now operating in Bohol particularly in its interior area.

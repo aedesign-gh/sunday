@@ -3,6 +3,7 @@ layout: post
 title: '15,000 athletes gather here for CVIRAA 2018'
 category: top-stories
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 More than 15,000 athletes all over Central Visayas will gather here starting on Feb. 24 for the Central Visayas Regional Athletic Association (CVRAA) 2018 meet.

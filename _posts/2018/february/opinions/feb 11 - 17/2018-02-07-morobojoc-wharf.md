@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Feb 11 - 17, 2018
+archive: true
 ---
 
 In the 1980’s, there was only one ship plying the Cebu- Tagbilaran route and vice versa. She left Cebu at 12 noon and arrived 4 pm on the same day. She departedTagbilaran at 12 midnight and arrived Cebu at 4 am. The ship was the ever listing to portside M/V Sweet Heart of the defunct Sweet Lines Shipping Co.
