@@ -3,6 +3,7 @@ layout: post
 title: 'Defending our culture furiously'
 category: editorial
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 The national president of the LubassaDagangBisaya (LUDABI), Atty. Leo Zaragosa, delivered an impassioned speech during the 40th joint induction ceremony of the Association of Writers and Radio Announcers of the Philippines, Inc. (AWARPI) and its three allied associations last Saturday evening at the JJ's Seafood Village this city.

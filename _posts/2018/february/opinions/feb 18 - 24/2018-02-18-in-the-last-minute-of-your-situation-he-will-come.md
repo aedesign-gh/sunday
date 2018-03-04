@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Feb.18, 2018-Sunday) Mark 8:1-10” I feel compassion for the people because they have remained with Me now three days and have nothing to eat. 

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 The Agora

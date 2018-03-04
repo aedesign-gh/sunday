@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 Parking lot city

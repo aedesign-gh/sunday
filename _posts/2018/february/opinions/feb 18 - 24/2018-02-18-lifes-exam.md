@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 1stSunday of Lent (cycle B)

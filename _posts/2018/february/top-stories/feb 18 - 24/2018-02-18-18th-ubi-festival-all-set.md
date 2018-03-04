@@ -3,6 +3,7 @@ layout: post
 title: '18th Ubi festival all set'
 category: top-stories
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 TAGBILARAN CITY - The three-day 18th Ubi Festival is all swet on Tuesday next week after it was postponed from late last month to an indefinite date due to additional preparations made for the affair.

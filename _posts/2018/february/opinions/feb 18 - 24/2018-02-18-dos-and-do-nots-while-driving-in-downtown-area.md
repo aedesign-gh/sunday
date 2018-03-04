@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 While the commentators are awash with saliva in discussing about the pros and cons of the new traffic set-up in downtown Tagbilaran, in our experience as a driver, we come up with a set of rules while driving in city streets.

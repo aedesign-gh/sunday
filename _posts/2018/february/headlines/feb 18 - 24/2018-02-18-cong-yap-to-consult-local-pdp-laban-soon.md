@@ -4,6 +4,7 @@ title: 'Cong. Yap to consult local PDP-Laban soon'
 category: headlines
 image: true
 dated: Feb 18 - 24, 2018
+archive: true
 ---
 
 3RD DISTRICT Cong. Arthur C. Yap yesterday said he will consult the local party directorate of the PartidoDemokratiko Pilipino-Lakasng Bayan (PDP-Laban) in Bohol at the right time.
