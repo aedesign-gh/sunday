@@ -3,6 +3,7 @@ layout: post
 title: "Athletes always half of sports contingent"
 category: editorial
 dated: March 04 - 10, 2018
+archive: true
 ---
 
 Ex-City Mayor Dan N. Lim had always criticized athletic meets ranging from division, congressional, provincial and even regional levels because athletes only compose a little more than one-half of the entire sports contingent.

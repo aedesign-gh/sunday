@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Mar 04 - 10, 2018
+archive: true
 ---
 
 Belgian actor Jean-Claude Van Damme, in one of his hit movies in 1995, “Sudden Death”, paraphrased a line believed to have come from Irish-born American politician, Joseph P. Kennedy, father of John F. Kennedy, by saying professionals don’t get angry, we just get even.

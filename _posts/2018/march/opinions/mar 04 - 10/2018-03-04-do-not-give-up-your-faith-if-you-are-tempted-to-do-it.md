@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Mar 04 - 10, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Feb. 25, 2018-Sunday) Mark 10:28-31”Then Peter began to say unto him, Lo, we have left all, and have followed thee. And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's, But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.

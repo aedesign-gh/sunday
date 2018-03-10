@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'The third lady town mayor of Bohol recently suspended by the Ombudsman from service has been upgraded to the penalty of dismissal and perpetual disqualification to hold public office.'
 hl-desc: ''
 dated: March 04 - 10, 2018
+archive: true
 ---
 
 Ombudsman ConchitaCarpio Morales, after taking “a second hard look at the evidence, found Panglao town Mayor Leonila Montero guilty of grave misconduct and order her dismissal from the service.

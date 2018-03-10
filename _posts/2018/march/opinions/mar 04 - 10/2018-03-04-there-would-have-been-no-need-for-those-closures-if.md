@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Mar 04 - 10, 2018
+archive: true
 ---
 
 It is very unfortunate that many times we have a reactive government.  That is usually the result when there is a disconnect between policy and enforcement.  We have more than adequate policies and laws but enforcement is wanting.  Policy and enforcement are like husband and wife.  One has no essence without the other.  The same is true with plan and budget.  We may have the plan but if its implementation is not supported with budget, it remains a useless piece of document. 

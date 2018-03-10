@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Mar 04 - 10, 2018
+archive: true
 ---
 
 Here is a system of collaboration between physicians and or the hospital itself in a certain hospital:

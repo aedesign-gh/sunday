@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Mar 04 - 10, 2018
+archive: true
 ---
 
 2ndSunday of Lent (cycle B)

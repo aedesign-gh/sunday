@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'SEE TO BELIEVE - '
 hl-desc: 'Gov. Edgar M. Chatto and the SangguniangPanlalawigan of Bohol headed by Acting Vice Governor Vincenzio B. Arcamo inspect the construction progress at Panglao Airport last Friday. Chiyoda Mitsubishi Joint Venture, airport contractor, reports that the completion of the new airport is now at 74%. The projected start of the airport operations is slated on August this year. (EDCOM)'
 dated: March 04 - 10, 2018
+archive: true
 ---
 
 Panglao airport contractor: projectis 74% complete

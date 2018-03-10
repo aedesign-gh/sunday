@@ -4,6 +4,7 @@ title: 'Provincial dad’s plea fall on deaf ears'
 image: true
 category: headlines
 dated: March 04 - 10, 2018
+archive: true
 ---
 
 The plea of Board Member Dionisio Victor A. Balite to reconsider the plan to reset again the holding of the regular session of the SangguniangPanlalawigan of Bohol from Friday last week to Wednesday and then from Wednesday to Friday last week apparently fell on deaf ears.
