@@ -6,6 +6,7 @@ image: true
 hl-title: 'FILE PHOTO'
 hl-desc: "A typical coal-power coal plant. "
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 The campaign against the establishment of island-based power source using coal as fuel is gaining grounds.

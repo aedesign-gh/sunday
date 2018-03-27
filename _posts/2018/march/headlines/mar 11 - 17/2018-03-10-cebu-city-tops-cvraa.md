@@ -3,6 +3,7 @@ layout: post
 title: 'Cebu City tops CVRAA '
 category: headlines
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 Cebu City dominated the five-day Central Visayas Regional Athletic Association (CVRAA) regional sports meet here at the closing day Friday.

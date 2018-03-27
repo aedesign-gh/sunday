@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'SHOT IN BROAD DAYLIGHT. '
 hl-desc: "The lifeless body of former PO2 Zandro Angelo Zamora, son of Punong Barangay Eugene D. Zamora of Taloto District, Tagbilaran City lies at the back entrance of the Dauis cockpit arena after he was shot to death by bonnet-wearing assassins in broad daylight last Thursday afternoon. A lady cockpit attendant was also killed in the incident."
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 Drug trade eyed on ex-cop’s slay

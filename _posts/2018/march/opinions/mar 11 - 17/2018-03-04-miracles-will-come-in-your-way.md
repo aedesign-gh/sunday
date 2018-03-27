@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (March 4, 2018-Sunday) Matthew 5:38-42-Ye have heard that it hath been said, an eye for an eye, and a tooth for a tooth: But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let him have [thy] cloke also. And whosoever shall compel thee to go a mile, go with him twain. Give to him that asketh thee, and from him that would borrow of thee turn not thou away: In our gospel for today, Jesus taught us to give our maximum tolerance to those who hurt us, physically and emotionally because this is the paradigm of a great love.

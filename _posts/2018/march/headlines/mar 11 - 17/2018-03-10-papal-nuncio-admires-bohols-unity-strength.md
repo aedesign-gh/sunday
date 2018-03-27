@@ -4,6 +4,7 @@ title: 'Papal Nuncio admires Bohol’s unity, strength'
 image: true
 category: headlines
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 Baclayon church reopens doors, Caccia cites Bohol’s resilience

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 Impeachment vs. Quo Warranto

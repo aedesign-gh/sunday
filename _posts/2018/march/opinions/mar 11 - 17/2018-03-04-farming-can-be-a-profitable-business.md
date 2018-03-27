@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 Farming can be a profitable business

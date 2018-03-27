@@ -4,6 +4,7 @@ title: 'New federal party in Bohol is all set'
 image: true
 category: headlines
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 A new political party to be named as “Bol-anon PartidoPederal” is set to be organized here on Saturday during a forum on federalism.

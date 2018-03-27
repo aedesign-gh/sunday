@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 Thank you, Ma’am.

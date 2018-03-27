@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 The Central Visayas Regional Athletic Association (CVRAA) meet at the CPG Sports Complex started last Saturday. There were 4 provinces and 15 cities competing the different sport events to a total of 19 delegations. The provinces are Bohol, Cebu, Negros Oriental and Siquijor while the cities are Tagbilaran City, Cebu City,  Danao City, Naga City, Lapu-Lapu City, Mandaue City, Talisay City, Carcar City, Bogo City, Toledo City, Dumaguete City, Guihulngan City, Bais City, Bayawan City and Tanjay City.  The more, the merrier.

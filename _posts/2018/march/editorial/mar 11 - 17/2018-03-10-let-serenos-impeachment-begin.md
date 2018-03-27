@@ -3,6 +3,7 @@ layout: post
 title: "Let Sereno’s impeachment begin"
 category: editorial
 dated: March 11 - 17, 2018
+archive: true
 ---
 
 Our charter provides who are the impeachable officials. They are the President, the Vice President, the members of the Supreme Court, members of the Constitutional Commissions, and the Ombudsman.

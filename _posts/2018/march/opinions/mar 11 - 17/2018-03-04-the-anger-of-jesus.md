@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Mar 11 - 17, 2018
+archive: true
 ---
 
 3rdSunday of Lent (cycle B)
