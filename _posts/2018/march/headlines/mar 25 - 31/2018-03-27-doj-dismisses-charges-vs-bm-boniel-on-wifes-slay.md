@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'HAPPIER TIMES. '
 hl-desc: "Board Member Nino Rey Boniel and wife, former Bien Unido Mayor Gisela BendongBoniel is shown above during happier times."
 dated: March 25 - 31, 2018
+archive: true
 ---
 
 Don’t look now but Board Member Niňo Rey Bonielcould be on his way back to his seat at the SangguniangPanlalawigan of Bohol after being incarcerated for almost a year.

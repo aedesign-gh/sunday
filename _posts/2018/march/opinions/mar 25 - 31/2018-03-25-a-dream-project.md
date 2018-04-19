@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Mar 25 - 31, 2018
+archive: true
 ---
 
 The beams and girders of the renovated bridge on the entrance to the town proper of Maribojoc  will be put in place soon. The new bridge was designed to be high above the water for engine-powered watercrafts and floating restaurants to pass underneath.  The surrounding area of the bridge will be converted into a tourism estate patterned after the Golden Gate Bridge of San Fransisco, California, USA.

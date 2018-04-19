@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: Mar 25 - 31, 2018
+archive: true
 ---
 
 Binisaya as national language

@@ -4,6 +4,7 @@ title: 'How did our solons act on Divorce Law?'
 image: true
 category: headlines
 dated: March 25 - 31, 2018
+archive: true
 ---
 
 As the Catholic Church started its heightened campaign against divorce law, we go first to the equation on how Boholano solons voted on the law in the Lower House.

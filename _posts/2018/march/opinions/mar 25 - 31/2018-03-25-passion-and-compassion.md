@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Mar 25 - 31, 2018
+archive: true
 ---
 
 Palm Sunday (cycle B)

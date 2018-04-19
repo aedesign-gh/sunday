@@ -4,6 +4,7 @@ title: 'Aris files bill on coal plant'
 image: true
 category: headlines
 dated: March 25 - 31, 2018
+archive: true
 ---
 
 By JUNE S. BLANCO

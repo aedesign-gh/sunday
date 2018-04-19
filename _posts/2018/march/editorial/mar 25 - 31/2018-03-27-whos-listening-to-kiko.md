@@ -4,6 +4,7 @@ title: "Who's listening to Kiko"
 category: editorial
 image: true
 dated: March 25 - 31, 2018
+archive: true
 ---
 
 Obviously, Sen. Francis Pangilinan is no fan of Pres. Duterte.

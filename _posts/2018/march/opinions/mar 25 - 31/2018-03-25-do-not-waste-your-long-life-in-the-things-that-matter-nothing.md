@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Mar 25 - 31, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (March25, 2018-Sunday)  Luke 8:16-18-No man, when he hath lighted a candle, covered it with a vessel, or putted [it] under a bed; but setteth [it] on a candlestick, that they which enter in may see the light. 

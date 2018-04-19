@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Mar 25 - 31, 2018
+archive: true
 ---
 
 (We have to give way to this piece written by Chito A. Fuentes through his FB account about the possible Senate run of the national photobomber, Bong Go)
