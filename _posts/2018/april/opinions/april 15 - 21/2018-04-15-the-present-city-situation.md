@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 A friend of mine arrived from the States for the May fiestas in the province. She commented of what she saw in Tagbilaran.  She was appalled by the congestion of people on the sidewalks  and the numerous  cars on the  streets. She did not expect Tagbilaran seems to be a replica of traffic jams in Manila, Tokyo and Los  Angeles in America. 
