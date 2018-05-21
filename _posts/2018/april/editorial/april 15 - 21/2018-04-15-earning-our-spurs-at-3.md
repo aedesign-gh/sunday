@@ -3,6 +3,7 @@ layout: post
 title: 'Earning our spurs @ 3'
 category: editorial
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 On Thursday, April 10, the Bohol Sunday News will be marking its 3rd anniversary as a local community newspaper.
