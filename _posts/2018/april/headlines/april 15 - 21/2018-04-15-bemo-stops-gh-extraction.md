@@ -3,6 +3,7 @@ layout: post
 title: 'BEMO stops GH extraction'
 category: headlines
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 GARCIA-HERNANDEZ.- Sand and gravel extraction from mineral-rich Manaba river of this limestone-rich town refuses to die down always generating controversy in what may be described as sand and quarrel.
