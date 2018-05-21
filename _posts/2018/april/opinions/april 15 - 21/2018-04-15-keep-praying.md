@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 Boni Quirog, Ph.D.
