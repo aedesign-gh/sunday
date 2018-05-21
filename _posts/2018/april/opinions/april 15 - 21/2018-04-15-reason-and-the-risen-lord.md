@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 2nd Sunday of Easter (cycle B)
