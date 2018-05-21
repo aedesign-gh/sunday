@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 Federalism was already a campaign promise that Pres. Rodrigo R. Duterte had when he was running for Presidency.  That Filipinos gave him an overwhelming vote to lead the country in the next six years would indicate that majority of them agreed  it is time the country take the shift to that form of government.  But what is federalism and do we all understand what we are getting into?
