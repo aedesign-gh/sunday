@@ -6,6 +6,7 @@ category: headlines
 hl-title: ''
 hl-desc: "The Commission on Elections (COMELEC) here expects a close to a million voters trooping to Bohol's 2,706 clustered precincts in its 1,109 barangays on May 14."
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 This as the countrys citizens exercise the right to vote and be elected into office for the 16 local positions, 8 both for the Sangguniang Kabataan (SK) and the barangay officials. 
