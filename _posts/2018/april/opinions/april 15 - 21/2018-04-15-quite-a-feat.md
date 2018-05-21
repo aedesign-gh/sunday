@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 Despite some lapses, technical or financial, we humbly submit that reaching the third anniversary of this paper on Tuesday is indeed quite a feat.
