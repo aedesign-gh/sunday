@@ -3,7 +3,7 @@ layout: post
 title: "Only in God we can find true happiness"
 category: opinions
 image: true
-image-cat: 'sundry'
+image-cat: 'word-on-fire'
 dated: May 20 - 27, 2018
 ---
 
