@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making sense of Sereno Ouster"
+title: "Making sense of Sereno ouster"
 category: editorial
 image: true
 dated: May 20 - 26, 2018
