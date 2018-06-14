@@ -4,6 +4,7 @@ title: 'Ex-City Pros. Dodo Montes dies at 70'
 image: true
 category: headlines
 dated: April 15 - 21, 2018
+archive: true
 ---
 
 Ex-City Prosecutor Adriano “Dodo” Montes joined his creator last Friday at the age of 70.

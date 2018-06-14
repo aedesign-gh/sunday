@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: ""
 dated: March 25 - 31, 2018
+archive: true
 ---
 
 WOMEN’S MONTH
