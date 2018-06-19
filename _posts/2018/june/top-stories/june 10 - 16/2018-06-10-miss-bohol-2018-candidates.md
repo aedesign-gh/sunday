@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "Candidates for Miss Bohol 2018 are shown above with Gov. Edgar M. Chatto, Vice Gov. Dionisio D. Balite, EDCOM Chief TootsieEscobia and Provincial Administrator AeDamalerio during the weekly radio program “Kita ugangGobernador” last Friday morning at the Governor’s Mansion. (Photo: EDCOM)"
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 Miss Bohol 2018 bets in

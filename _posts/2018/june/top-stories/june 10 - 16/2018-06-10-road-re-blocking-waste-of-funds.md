@@ -4,6 +4,7 @@ title: "Road re-blocking ‘waste of funds’"
 category: top-stories
 image: true
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 Board Member Tomas D, Abapo, Jr. last week lashed at the re-blocking in many segments of national road in the province being undertaken by different contractors and supervised by DPWH, saying it is a “waste of funds.”

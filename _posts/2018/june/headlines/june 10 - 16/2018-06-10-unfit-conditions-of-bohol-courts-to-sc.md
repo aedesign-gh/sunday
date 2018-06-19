@@ -4,6 +4,7 @@ title: "Unfit conditions of Bohol courts to SC"
 image: true
 category: headlines
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 The unfit condition of courts in Bohol and the proposed new Hall of Justice were being raised to the Supreme Court by Gov. Edgar M. Chatto, himself a lawyer.

@@ -3,6 +3,7 @@ layout: post
 title: "Justice for Mayor Tirol, 1 suspect killed by cops"
 category: headlines
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 BUENAVISTA.- Cry for justice on the murder of Mayor Ronald Lowell “Sample” Tirolis pouring even as the provincial board wanted for a speedy investigation of his case.

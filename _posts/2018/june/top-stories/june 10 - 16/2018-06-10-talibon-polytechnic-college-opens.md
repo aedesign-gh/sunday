@@ -6,6 +6,7 @@ image: true
 hl-title: 'TALIBON. '
 hl-desc: "This town gained another milestone in governance as it opens the first ever polytechnic college last June 4 operated by a local government unit here."
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 The inaugural program at the TPC Administration Building marks the official recognition of the newly established Talibon Polytechnic College (TPC) through Municipal Ordinance No. 2017-07 authored by Hon. JanettteAurestila-Garcia. 

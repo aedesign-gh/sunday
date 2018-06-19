@@ -3,6 +3,7 @@ layout: post
 title: "City’s LCR: 1 of PH’s finest"
 category: headlines
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 The city government was awarded as one of the Ten Outstanding Civil Registry Office in the whole Philippines last week.

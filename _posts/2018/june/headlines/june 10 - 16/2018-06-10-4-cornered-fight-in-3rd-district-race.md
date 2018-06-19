@@ -6,6 +6,7 @@ category: headlines
 hl-title: "Bohol’s political landscape has started to take shape apparently in preparation for the election next year as filing of certificate of candidacy (COC) in October is fast approaching."
 hl-desc: ""
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 This early three potential contenders are already showing interest and even make their presence felt in some social gatherings in third congressional district that comprises 19 towns.
