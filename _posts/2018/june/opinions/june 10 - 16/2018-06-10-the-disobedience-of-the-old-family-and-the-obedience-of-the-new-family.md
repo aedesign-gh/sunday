@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 The disobedience of the old family and the obedience of the new family

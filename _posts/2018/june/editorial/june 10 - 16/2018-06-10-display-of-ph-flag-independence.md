@@ -4,6 +4,7 @@ title: "Display of PH flag, independence?"
 image: true
 category: editorial
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 On Tuesday, the country will mark the 120th Philippine Independence Day and Filipinos are mandated to publicly display the Philippine flag at their residence, business firms and in their vehicles and even motorcycles.

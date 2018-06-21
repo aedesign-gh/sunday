@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 On traffic violators

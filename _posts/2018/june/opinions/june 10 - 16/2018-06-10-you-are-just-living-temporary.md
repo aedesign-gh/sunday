@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 You are just living temporary

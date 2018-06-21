@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: June 10 - 16, 2018
+archive: true
 ---
 
 Cabinet Sec. Jun Evasco: 
