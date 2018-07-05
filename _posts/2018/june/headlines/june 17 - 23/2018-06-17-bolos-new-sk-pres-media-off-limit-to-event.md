@@ -4,6 +4,7 @@ title: "Bolos new SK pres, media off limit to event"
 image: true
 category: headlines
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 The ugly head of politics soared as the Sangguniang Kabataan held its provincial officers last week even as the opposition was caught with its pants down in the quick election.

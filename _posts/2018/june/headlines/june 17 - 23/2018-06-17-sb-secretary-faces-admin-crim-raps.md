@@ -3,6 +3,7 @@ layout: post
 title: "SB secretary faces admin-crim raps"
 category: headlines
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 ORDINANCE PUBLICATION

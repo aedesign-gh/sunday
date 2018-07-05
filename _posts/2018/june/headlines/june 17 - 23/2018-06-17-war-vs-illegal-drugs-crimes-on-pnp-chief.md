@@ -6,6 +6,7 @@ category: headlines
 hl-title: ""
 hl-desc: "Director General Oscar D. Albayaldeof the Philippine National Police (PNP) on Friday said he is firm that the war against illegal drugs, criminality and corruption will continue as he started to institute genuine discipline among his men."
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 The PNP chief arrived here last Friday afternoon where he was welcomed by P/Sr. Supt. Angeles Genorga, PNP Bohol provincial director, for a command conference at Camp Dagohoy.

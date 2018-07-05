@@ -4,6 +4,7 @@ title: "Balite is acting guv, son to run same post 2019"
 image: true
 category: headlines
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 Vice Gov. Dionisio D. Balite assumed as acting governor of the province starting last Friday after Gov. Edgar M. Chato left for the United States.
