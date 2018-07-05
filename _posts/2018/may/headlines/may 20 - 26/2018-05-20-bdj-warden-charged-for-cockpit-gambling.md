@@ -4,6 +4,7 @@ title: 'BDJ warden charged for cockpit gambling'
 image: true
 category: headlines
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 The jail warden of Bohol District Jail is facing raps with the Office of the Ombudsman in the Visayas for gambling at the cockpit in Corella town on Sundays.

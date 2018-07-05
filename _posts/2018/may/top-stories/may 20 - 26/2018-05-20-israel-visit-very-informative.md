@@ -3,6 +3,7 @@ layout: post
 title: "Israel visit very Informative"
 category: top-stories
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 Aris: Israel visit very“informative”

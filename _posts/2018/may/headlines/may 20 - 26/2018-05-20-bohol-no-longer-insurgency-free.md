@@ -6,6 +6,7 @@ category: headlines
 hl-title: 'To be candid about it, Bohol is not insurgency-free since last year contrary to the claims of local authorities.'
 hl-desc: ""
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 Last Tuesday dawn, two soldiers of the 47th Infantry Battalion were wounded after a 30-minute gunbattle against 14 members of the New People’s Army in SitioIlaud of Barangay Campagao,Bilar town.

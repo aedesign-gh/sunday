@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: May 20 - 27, 2018
+archive: true
 ---
 
 Excited as regular PPI member

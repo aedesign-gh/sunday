@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: ""
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 Lite Ferries fields LF 88 in sea route

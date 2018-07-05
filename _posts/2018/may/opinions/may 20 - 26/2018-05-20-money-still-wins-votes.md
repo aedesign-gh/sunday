@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: May 20 - 27, 2018
+archive: true
 ---
 
 The Barangay and SK elections held last week have taught us lessons that could not be contained in any storage house or facility of San Miguel Corporation, Alturas Group of Companies or the Bohol Quality Corporation.  Sad to say the lessons make us gnash our teeth and fear for the future of this country (Bohol particularly) and its people. 

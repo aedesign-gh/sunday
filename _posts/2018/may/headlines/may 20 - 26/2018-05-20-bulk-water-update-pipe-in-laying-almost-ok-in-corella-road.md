@@ -3,6 +3,7 @@ layout: post
 title: 'Bulk water update Pipe-laying almost ok in Corella road'
 category: headlines
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 The bulk water supply from Barangay Patrocinio, Cortes all the way to Panglao town passing through Tagbilaran City and Dauis is now completing the laying of 420 and 300 millimeters pipes in Corella road en route to the city.

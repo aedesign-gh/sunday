@@ -3,6 +3,7 @@ layout: post
 title: "BSN to join PPI national press forum"
 category: top-stories
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 The Bohol Sunday News will be joining the 22nd National Press Forum and general assembly by the Philippine Press Institute (PPI) on May 24 to 26 at Hotel Jen, formerly Traders Hotel in Manila.

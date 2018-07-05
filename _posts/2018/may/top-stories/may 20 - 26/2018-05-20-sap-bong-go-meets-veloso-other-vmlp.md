@@ -6,6 +6,7 @@ image: true
 hl-title: 'CLOSEST PRES. DUTERTE AIDE '
 hl-desc: "Bong Go, center, is flanked by (l-r) Vice Mayors’ League of the Philippines (VMLP) National President Donnabel Joy Mejia and Tagbilaran City Vice Mayor Jose Antonio Veloso, with other national league officers."
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 SAP Bong Go meets Veloso, other VMLP

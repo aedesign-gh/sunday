@@ -4,6 +4,7 @@ title: 'BBDN editor wins, eyes Liga position'
 image: true
 category: headlines
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 Johnny G. Orioque, editor-publisher of Bohol Balita Daily News (BBDN), a daily Visayan tabloid, won as the punong barangay in Poblacion, Trinidad town last Monday. 

@@ -4,6 +4,7 @@ title: "Making sense of Sereno ouster"
 category: editorial
 image: true
 dated: May 20 - 26, 2018
+archive: true
 ---
 
 The Supreme Court is the highest judicial tribunal of the Republic of the Philippines and is the final arbiter of all legal and constitutional issues.

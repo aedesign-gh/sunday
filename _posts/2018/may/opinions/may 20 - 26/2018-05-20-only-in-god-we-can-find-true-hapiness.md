@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: May 20 - 27, 2018
+archive: true
 ---
 
 
