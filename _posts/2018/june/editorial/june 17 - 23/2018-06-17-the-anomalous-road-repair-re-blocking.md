@@ -4,6 +4,7 @@ title: "The anomalous road repair, re-blocking"
 image: true
 category: editorial
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 The sister media companies of the Capitol are very silent on the anomalous road repair and re-blocking happening in our midst.

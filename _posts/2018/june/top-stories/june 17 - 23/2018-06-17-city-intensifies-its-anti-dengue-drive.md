@@ -6,6 +6,7 @@ image: true
 hl-title: ''
 hl-desc: "Dr.JeiaPondoc of the City Health Office is shown above pouring in larvicide in an identified breeding site last week."
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 City intensifies its 

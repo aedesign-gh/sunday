@@ -4,6 +4,7 @@ title: "Boniel resigns as board member"
 category: top-stories
 image: true
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 Board Member Nino ReyBoniel formally tendered his resignation as member of the SangguniangPanlalawigan in a letter sent to Vice Gov. Dionisio D. Balite last week.

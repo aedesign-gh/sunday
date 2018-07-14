@@ -4,6 +4,7 @@ title: "Bohol DILG has new prov’l chief"
 category: top-stories
 image: true
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 John Mende formally assumed last week as the new provincial director of the Department of Interior and Local Government (DILG) in Bohol.

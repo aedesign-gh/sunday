@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: June 17 - 23, 2018
+archive: true
 ---
 
 It took another thirty minutes for our continuation with our one on one talk with Cabinet Sec. Jun Evasco in Sikatuna town the other Saturday night while attending the grand reunion of the alumni of the Sikatuna Central Elementary School (SCES).
