@@ -3,6 +3,7 @@ layout: post
 title: "DU30 warns mayors in speech to v-mayor"
 category: headlines
 dated: July 01 - 07, 2018
+archive: true
 ---
 
 Duterte warns mayors in speech to v-mayors

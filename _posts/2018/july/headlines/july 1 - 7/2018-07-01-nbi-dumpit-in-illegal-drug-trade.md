@@ -3,6 +3,7 @@ layout: post
 title: "NBI: Dumpit in illegal drug trade"
 category: headlines
 dated: July 01 - 07, 2018
+archive: true
 ---
 
 NBI: Dumpit in illegal drug trade

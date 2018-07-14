@@ -3,6 +3,7 @@ layout: post
 title: "Duterte to DPWH Chief explain road reblocking"
 category: headlines
 dated: July 01 - 07, 2018
+archive: true
 ---
 
 Villar to check road re-blocking

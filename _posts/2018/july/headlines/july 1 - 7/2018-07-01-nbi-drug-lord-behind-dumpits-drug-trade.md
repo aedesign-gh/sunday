@@ -6,6 +6,7 @@ category: headlines
 hl-title: ""
 hl-desc: "PHOTO above shows the lifeless body of SPO1 Adonis Dumpit who was shot down by police and NBI operatives last Thursday morning. (Photo: Ric V. Obedencio)"
 dated: July 01 - 07, 2018
+archive: true
 ---
 
 Drug lord behind Dumpit’s trade?

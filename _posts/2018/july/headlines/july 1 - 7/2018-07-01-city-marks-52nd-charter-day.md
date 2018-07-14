@@ -4,6 +4,7 @@ title: "City marks 52nd Charter Day"
 image: true
 category: headlines
 dated: July 01 - 07, 2018
+archive: true
 ---
 
 The city marked its 52nd Charter Day today and authorities said that the commemoration is special with all the prior activities marking its culmination.
