@@ -6,6 +6,7 @@ image: true
 hl-title: ""
 hl-desc: "Several Bohol mayors, barangay and SK officials and supporters launched the “Bayan for Bong Go” Bohol Movement on Saturday, July 7, to urge Special Assistant to the President (SAP) Christopher Lawrence “Bong” Go to run for a Senate seat in 2019. (Photo: Leo Udtohan)"
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 Supporters of Special Assistant to the President (SAP) Christopher Lawrence “Bong” Go gathered at Holy Name University (HNU) on Saturday to launch “Bayan for Bong Go” Bohol Movement which aims to encourage him to run for a Senate seat in 2019.

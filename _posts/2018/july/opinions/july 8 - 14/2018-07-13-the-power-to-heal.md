@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 On our way home from Loboctown last week,the “manhihilot” was the topic of conversation of my colleagues. One them related that everytime (she mentioned the name of the “manhihilot”)  laid hands on her child,  her childwould be healed from his illness.

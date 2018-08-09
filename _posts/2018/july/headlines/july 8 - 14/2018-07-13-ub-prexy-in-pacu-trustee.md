@@ -4,6 +4,7 @@ title: "UB prexy is PACU trustee"
 category: headlines
 image: true
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 Fresh from his assumption as the fifth University of Bohol President, Dr.Victoriano B. Tirol III was elected as member of the Board of Trustees of the Philippine Association of Colleges and Universities (PACU) in an election held recently at the Joy-Nostalg Hotel & Suites Manila in Pasig City.

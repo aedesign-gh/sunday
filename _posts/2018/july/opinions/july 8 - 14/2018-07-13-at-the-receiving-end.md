@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 For the past two weeks, we have been at the receiving end of media attacks following the filing of criminal and administrative raps by our correspondent, Fred Amora, with the Visayas Ombudsman.

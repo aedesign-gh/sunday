@@ -4,6 +4,7 @@ title: "Villar promises to attend to Bohol’s infra concerns"
 category: headlines
 image: true
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 Sec. Mark Villar of the Department of Public Works and Highways (DPWH) made a lightning visit here on Thursday.

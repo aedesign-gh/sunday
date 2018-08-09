@@ -3,6 +3,7 @@ layout: post
 title: "Montero’s return, fake news-Fuertes"
 category: headlines
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 The much-ballyhooed return of Nila Montero as chief executive of Panglao is more of a fake news, thus declared Mayor Pedro Fuertes last week.

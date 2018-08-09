@@ -3,6 +3,7 @@ layout: post
 title: "SK prov’l chair makes historic presence in SP"
 category: headlines
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 The Liberal Party took complete control in the provincial board with the entry of a new ex-oficio board member identified with the camp of Gov. Edgar M. Chatto.

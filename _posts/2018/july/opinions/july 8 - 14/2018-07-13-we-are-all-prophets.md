@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 14th Sunday of the Year(cycle B)

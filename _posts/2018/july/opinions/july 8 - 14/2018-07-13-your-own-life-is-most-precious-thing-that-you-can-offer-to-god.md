@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (July8, 2018-Sunday) Thou gave me no kiss: but this woman since the time I came in hath not ceased to kiss my feet. My head with oil thou didst not anoint: but this woman hath “anointed” my feet with ointment. Wherefore I say unto thee, her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, [the same] loved little.

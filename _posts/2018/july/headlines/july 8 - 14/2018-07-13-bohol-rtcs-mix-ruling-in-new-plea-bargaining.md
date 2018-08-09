@@ -6,6 +6,7 @@ image: true
 hl-title: "The new plea bargaining scheme for drug cases hit the hornet’s nest as the different salas of the Regional Trial Court in Bohol came out with different rulings, reports reaching the Bohol Sunday News last week said."
 hl-desc: ""
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 Due to this predicament, Judge Suceso A. Arcamo, executive judge of the Regional Trial Court (RTC) in Bohol told this paper in an exclusive interview that he will call for a conference among all RTC judges here in order to solve the impasse.

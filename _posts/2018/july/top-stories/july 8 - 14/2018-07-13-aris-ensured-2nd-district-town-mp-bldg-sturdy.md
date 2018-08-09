@@ -4,6 +4,7 @@ title: "Aris ensures 2nd district town MP bldg sturdy"
 category: top-stories
 image: true
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 REP. Erico Aristotle C. Aumentado has been making the rounds of Bohol’s 2nd District to inspect ongoing multipurpose building projects in all barangays. The inspections ensure that the buildings will be sturdy and good for the next 10 years.

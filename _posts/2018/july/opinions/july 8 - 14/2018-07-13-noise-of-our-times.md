@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-kernel'
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 Noise of our times

@@ -4,6 +4,7 @@ title: "Liberal Party re-groups by paradigm shift"
 image: true
 category: editorial
 dated: July 08 - 14, 2018
+archive: true
 ---
 
 In Bohol nowadays, Liberal Party is already a passé. No local politician will openly admit that he is a member of the once-dominant political party.
