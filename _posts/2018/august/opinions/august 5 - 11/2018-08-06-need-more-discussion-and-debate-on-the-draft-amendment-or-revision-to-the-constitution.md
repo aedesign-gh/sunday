@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 RomyTeruel

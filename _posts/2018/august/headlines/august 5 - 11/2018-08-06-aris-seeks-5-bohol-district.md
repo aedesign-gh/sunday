@@ -4,6 +4,7 @@ title: "Aris seeks 5 Bohol district"
 image: true
 category: headlines
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 Cong. Erico Aristotle C. Aumentado (2nd District, Bohol) displayed his wide foresight in filing House Bill No. 7999 last week re-apportioning Bohol into five congressional districts.

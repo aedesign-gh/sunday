@@ -4,6 +4,7 @@ title: "Abe Lim makes public presence "
 category: top-stories
 image: true
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 Posing for a possible rematch against his own nephew, Dr. Abe Lim is making his presence felt in the city for the last two weeks now.

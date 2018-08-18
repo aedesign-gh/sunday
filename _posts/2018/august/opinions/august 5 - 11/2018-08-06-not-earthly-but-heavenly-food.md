@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 18th Sunday of the Year(cycle B)

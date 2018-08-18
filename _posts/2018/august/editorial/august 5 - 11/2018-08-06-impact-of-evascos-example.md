@@ -3,6 +3,7 @@ layout: post
 title: "Impact of Evasco’s example"
 category: editorial
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 Although he made it straight to the point, Cabinet Sec. LeoncioB. Evasco’s refusal to receive the award as one of the Ten Outstanding BoholanosAround the World (TOBAW) yesterday is not meant to shame Cong. Rene L. Relampagos of the first district.

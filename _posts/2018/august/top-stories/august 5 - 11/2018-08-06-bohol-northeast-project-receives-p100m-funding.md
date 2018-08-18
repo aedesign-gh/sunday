@@ -3,6 +3,7 @@ layout: post
 title: "Bohol northeast project receives P100M funding"
 category: top-stories
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 By JUNE S. BLANCO

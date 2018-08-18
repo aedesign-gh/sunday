@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 We were excited on the projected meeting between Cong. Aris C. Aumentado and Davao City Mayor Sara Duterte today in Manila as the second district solon was invited for an emergency meeting with the presidential daughter.

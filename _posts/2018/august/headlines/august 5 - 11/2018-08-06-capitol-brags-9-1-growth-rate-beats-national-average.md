@@ -3,6 +3,7 @@ layout: post
 title: "Capitol brags 9.1% growth rate, beats national average"
 category: headlines
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 Despite high market prices of fish and fuel plus an excessive charges of local hotel rates and restaurants, Capitol issued a statement yesterday bragging a 9.1% economic growth beating the national average.

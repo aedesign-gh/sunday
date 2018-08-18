@@ -4,6 +4,7 @@ title: "Cepedoza wins in Liga prov’l polls"
 category: top-stories
 image: true
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 Dr. Romulo G. Cepedozaof Danao town was re-elected last Monday as president of the Ligangmga Barangay (LnB) provincial federation during an election held at the Bohol Cultural Center this city.

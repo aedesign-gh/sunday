@@ -3,6 +3,7 @@ layout: post
 title: "Work stoppage over downtown building"
 category: top-stories
 dated: August 05 - 11, 2018
+archive: true
 ---
 
 A work stoppage is being eyed over the construction of a new downtown building in the city even as its constructions snubbed the invitation of the SangguniangPanlungsod last week.
