@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 The collapse last week of the beams of an ongoing constructed building in the city is a sort of a blessing in disguise. Had it had been finished and occupied by tenants as it is designed as a call center and a business establishment, many would have died.  A construction worker died, but perhaps his time was up. Many claimed it was better the catastrophe happened earlier or many would have perished.

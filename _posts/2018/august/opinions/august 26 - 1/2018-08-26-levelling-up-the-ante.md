@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "An end to everything"
+title: "Levelling up the ante"
 category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
-dated: August 12 - 18, 2018
-archive: true
+dated: August 26 - Sept. 1, 2018
 ---
 
-To the dismay of some local officials, Special Assistant to the President Christopher “Bong” Go will be coming over this week to attend the birthday celebration of our relative, Boy Pernia, media consultant of Cong. Aris C. Aumentado.
+To the dismay of some local officials, Special Assistant to the President Christopher 'Bong' Go will be coming over this week to attend the birthday celebration of our relative, Boy Pernia, media consultant of Cong. Aris C. Aumentado.
 
 Go has become slippery as an eel when he was invited to join the Panagat Festival in Dauis town and upon the invitation of the city hall. He refused on both invitations allegedly due to a busy schedule.
 
@@ -21,10 +20,9 @@ But we are not taking the bait. Reports said a vessel of the Department of Agric
 We disagree with his approach. The supply of fish will be eaten down by the vultures and leeches in the local fish market. The solution to the problem is not on the supply and demand. It is more on the cartel behind it.
 
 The 90th natal day of former City Vice-Mayor Gloria Neri Lim will be next week yet. But considering the presence of his eldest son, Dr. Abe Lim, and his family, an advance birthday celebrations have been lined up starting yesterday.
-
 Hundreds of political supporters from different barangays here gathered at the Lim residence in Dao District last night to break bread and entertained by performers from Cebu.
 
-The following day, an elaborate birthday bash was held at the MetroCenter Hotel together with the Chinese community and friends including Vice Mayor Toto Veloso and City Councilors Dodong Gonzaga and DodongPolinar. Of course, City Mayor Baba Yap was also present being one of the grandchildren of the birthday celebrant
+The following day, an elaborate birthday bash was held at the MetroCenter Hotel together with the Chinese community and friends including Vice Mayor Toto Veloso and City Councilors Dodong Gonzaga and DodongPolinar. Of course, City Mayor Baba Yap was also present being one of the grandchildren of the birthday celebrant.
 
 To think why the event was held at the MetroCentre Hotel when Gloria Lim’s youngest child, Geesnell, owns the plush Bohol Tropics Resort immediately raises some questions.
 
@@ -42,6 +40,9 @@ It has been a public knowledge who are those involved in illegal drugs ever sinc
 
 As of the moment, the Boholanos are helpless in combatting them fair and square. They only make noise in the social media.
 
-But there is always an end to everything and we know for sure that those who benefitted from these illegal transactions will be crucified in the days to come
+But there is always an end to everything and we know for sure that those who benefitted from these illegal transactions will be crucified in the days to come.
 
 For comments, suggestions and non-violent reactions, just email to attydandanbantugan@gmail.com
+
+
+

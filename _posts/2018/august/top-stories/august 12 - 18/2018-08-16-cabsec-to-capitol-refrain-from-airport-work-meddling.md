@@ -4,6 +4,7 @@ title: "CabSec to Capitol: Refrain from airport work meddling"
 image: true
 category: top-stories
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 Cabinet Sec. LeoncioB. Evasco, Jr. last week minced no words in saying that there are provincial officials who appeared to be meddling and wanted the airport project be completed earlier than what is being scheduled.

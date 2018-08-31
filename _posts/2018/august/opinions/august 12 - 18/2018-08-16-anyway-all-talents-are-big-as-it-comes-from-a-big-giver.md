@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Aug. 12, 2018-Sunday) Matthew 10:7-13- And when ye come into an house, salute it. And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.

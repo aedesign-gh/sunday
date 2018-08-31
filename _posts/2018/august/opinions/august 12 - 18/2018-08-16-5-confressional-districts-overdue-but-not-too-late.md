@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 We hail Cong. ArisAumentado’s House Bill No. 7999 reapportioning the Province of Bohol into five (5) congressional districts.  Although this has elicited mixed reactions mostly from incumbent politicians who only have their interests to think of,there is much wisdom in the proposed law. Cong. Ariswas too humble to say that he was only acceding to the sentiments of the Ligangmga Barangay, and League of Mayors of the Philippines, Bohol Chapter. I would even say that the measure should have been proposed long before but it’s not too late.

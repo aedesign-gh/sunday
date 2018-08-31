@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 19th Sunday of the Year(cycle B)

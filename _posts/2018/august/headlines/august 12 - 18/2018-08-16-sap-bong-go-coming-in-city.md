@@ -4,6 +4,7 @@ title: "SAP Bong Go coming in city"
 image: true
 category: headlines
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 If plans do not miscarry, Special Assistant to the President Christopher “Bong” Go will be coming over here this week.

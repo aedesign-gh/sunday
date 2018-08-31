@@ -4,6 +4,7 @@ title: "Missed opportunity"
 category: editorial
 image: true
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 All's not well with the ruling PDP-Laban.

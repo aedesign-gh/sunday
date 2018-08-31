@@ -6,6 +6,7 @@ category: top-stories
 hl-title: ""
 hl-desc: "City Mayor Baba Yap (center with mic) is seen above delivering a message to the participants of the two-day seminar-workshop on media held at the JJ’s Seafood Village this city which culminated yesterday afternoon."
 dated: August 12 - 18, 2018
+archive: true
 ---
 
 Giving a premium on culture and its budding writers, Tagbilaran City, through its local leaders led by Mayor John Geesnell Yap II offer a free two day Seminar Workshop on Media Ethics, News Reporting, Photo journalism, editorial writing andfeature writing at the JJs Seafoods Village last Aug. 10-11.
