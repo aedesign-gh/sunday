@@ -3,6 +3,7 @@ layout: post
 title: "Nat’l Heroes Day not on Monday "
 category: headlines
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 If you have this luxury of whiling your time in an extended weekend Aug. 27, basking in the holiday sun, frolicking in some unmapped beach of simply in a hammock under the palm-fringed beach, thank a Boholano, who pounded a grand event which would make the first National Heroes Day distinct from a similar holiday in November. 

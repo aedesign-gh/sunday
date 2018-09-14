@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 Finally Bohol has been extricated from its disgraceful title of No. 1 illegal drug affected province in Central Visayas and No. 5 throughout the country.  The Philippine Drug Enforcement Administration (PDEA) has announced in a formal ceremony the declassification of 321 barangays of Bohol as drug-free.  The 321 barangays were among the more than 800 barangays in the Province of Bohol that were categorized as drug affected making Bohol the title holder in Region 7 and runner-up in the whole country. 

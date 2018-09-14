@@ -4,6 +4,7 @@ title: "Program, activities mark national heroes day here"
 image: true
 category: top-stories
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 Bohol is one with the nation in commemorating National Heroes Day on Monday.
 

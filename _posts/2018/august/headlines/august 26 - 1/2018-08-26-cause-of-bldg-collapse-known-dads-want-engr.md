@@ -4,6 +4,7 @@ title: "Cause of bldg. collapse known, dads want engr"
 image: true
 category: headlines
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 A third-party technical report has identified the cause of the partial collapse of the under-construction commercial buildingthat killed a worker and injured three others in Tagbilaran City on August 1.

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 Last Tuesday, we motored to Tangnan, Loon to see personally the coral garden they touted as one of its kind in the world.

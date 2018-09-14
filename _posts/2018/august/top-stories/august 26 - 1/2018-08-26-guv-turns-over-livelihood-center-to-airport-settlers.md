@@ -3,6 +3,7 @@ layout: post
 title: "Guv turns over livelihood center to airport settlers"
 category: top-stories
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 Gov. Edgar M. Chatto will turn over to the relocated homeowners a livelihood center which is an essential social responsibility component of the Bohol Panglao international airport project on Wednesday. 

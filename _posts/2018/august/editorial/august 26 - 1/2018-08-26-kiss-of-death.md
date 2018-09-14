@@ -3,6 +3,7 @@ layout: post
 title: "Kiss of Death"
 category: editorial
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 Ex-President Benigno Aquino III has vowed to campaign for opposition candidates in next year's elections.

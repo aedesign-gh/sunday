@@ -3,6 +3,7 @@ layout: post
 title: "Capitol says P55 M for catering not excessive"
 category: headlines
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 The provincial government disputedlast week the findings of the Commission on Audit (COA) that it spent some P55.3 million in 2017 for catering services in various activities which the latter  found to be extravagant.

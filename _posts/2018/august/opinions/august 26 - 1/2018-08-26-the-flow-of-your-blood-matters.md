@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Aug. 26, 2018-Sunday) John 13:21-33There was reclining on Jesus' bosom one of His disciples, whom Jesus loved. So Simon Peter gestured to him, and said to him, 'Tell us who it is of whom He is speaking.' He, leaning back thus on Jesus' bosom, said to Him, 'Lord, who is it?' Jesus then answered, 'That is the one for whom I shall dip the morsel and give it to him:

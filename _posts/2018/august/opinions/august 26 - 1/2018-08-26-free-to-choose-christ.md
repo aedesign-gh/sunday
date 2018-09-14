@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 21st Sunday of the Year(cycle B)

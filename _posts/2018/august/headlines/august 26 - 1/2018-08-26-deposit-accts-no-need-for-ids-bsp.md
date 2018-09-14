@@ -3,6 +3,7 @@ layout: post
 title: "Deposit accts no need for IDs-BSP"
 category: headlines
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 The Bangko Sentral ng Pilipinas (BSP) announced here last week that basic deposit accounts no longer need identification cards from depositors.

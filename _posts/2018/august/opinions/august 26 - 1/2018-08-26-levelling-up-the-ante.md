@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 To the dismay of some local officials, Special Assistant to the President Christopher 'Bong' Go will be coming over this week to attend the birthday celebration of our relative, Boy Pernia, media consultant of Cong. Aris C. Aumentado.

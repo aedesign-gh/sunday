@@ -6,6 +6,7 @@ category: headlines
 hl-title: "CLOA DISTRIBUTION IN CARMEN. "
 hl-desc: "Left photo shows Sec. John Castriciones of the Department of Agrarian Reform (DAR) who spearheads the distribution of land titles to 419 Boholanoagrarian reform beneficiaries (center photo) in time for the 30th year celebration of the Comprehensive Agrarian Reform Program (CARP) in Bohol. Right photo is Grace Fua, provincial agrarian reform officer in Bohol delivering the opening message.(Photos courtesy of Ric Obedencio, Office of the Governor and PAMRS DAR Central Office)"
 dated: August 26 - Sept. 1, 2018
+archive: true
 ---
 
 No less than Sec. John Castriciones of the Department of Agrarian Reform (DAR) led the distribution of 419 Certificates of Land Ownership Award (CLOA) to Boholano farmer beneficiaries in Carmen town last Thursday.
