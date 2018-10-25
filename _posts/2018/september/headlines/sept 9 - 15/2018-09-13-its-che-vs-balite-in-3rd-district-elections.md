@@ -4,6 +4,7 @@ title: "It’s Che vs. Balite in 3rd district elections"
 image: true
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 The battle line is drawn between the alliance of Vice-Gov. Dionisio D. Balite and former Carmen Mayor Conchita “Che” Toribiodelos Reyes.

@@ -3,6 +3,7 @@ layout: post
 title: "City Mayor Baba Yap retainsexcellent rating"
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 City Mayor John Geesnell "Baba" Yap maintained his excellent satisfaction rating of +92 in the recently concluded Bohol Poll conducted by the HNU Center for Research & Publication. 

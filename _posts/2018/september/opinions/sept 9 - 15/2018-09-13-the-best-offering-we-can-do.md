@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'word-on-fire'
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 The Gospel of Jesus Christ (Sept. 2, 2018-Sunday) Luke 16:1-8- And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward. Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed. I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.

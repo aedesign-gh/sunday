@@ -4,6 +4,7 @@ title: "Aumentado-Herrera tandem for Hugpong in Bohol polls"
 image: true
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 MANILA – The administration HugpongngPagbabago (HnP) is looking at the possibility of fielding the tandem of Cong. ArisC. Aumentado of Bohol’s second district and former Vice Gov. Julius Caesar Herrera in next year’s mid-term elections. 

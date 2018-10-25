@@ -4,6 +4,7 @@ title: "Yap grateful on higher city ranking in NCC"
 image: true
 category: top-stories
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 For five years in a row, the Cities and Municipalities Competitiveness Index (CMCI), an annual ranking of Philippine cities and municipalities developed by the National Competitiveness Council, recently ranked Tagbilaran City as one of the best in the country.

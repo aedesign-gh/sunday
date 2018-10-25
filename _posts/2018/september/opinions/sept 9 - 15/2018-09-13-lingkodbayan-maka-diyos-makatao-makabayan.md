@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 The Agora

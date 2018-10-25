@@ -4,6 +4,7 @@ title: "Ruling party here in leadership row"
 image: true
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 Dr. DoloreichDumaluan, the incumbent duly elected president of PDP-Laban in Bohol, said he wants party leadership row settled but time is running out for the filing of certificate of candidacy (COC) is set on Oct. 1-5.

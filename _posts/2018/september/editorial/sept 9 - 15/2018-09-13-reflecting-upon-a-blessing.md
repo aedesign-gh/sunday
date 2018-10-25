@@ -3,6 +3,7 @@ layout: post
 title: "Reflecting upon a blessing"
 category: editorial
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 That the visit of Pres.Duterte to Israel is historic, no one can dispute for at least one reason: it is the first by a sitting Philippine President to the Jewish state.

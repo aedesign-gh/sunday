@@ -3,6 +3,7 @@ layout: post
 title: "Panglao demolition job starts"
 category: top-stories
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 PANGLAO.– Dr. DoloreichDumaluan, a resort owner, said that demolition of illegal structures breaching beach’s 20-meter easement zones in this premier tourist town will start as soon as possible.

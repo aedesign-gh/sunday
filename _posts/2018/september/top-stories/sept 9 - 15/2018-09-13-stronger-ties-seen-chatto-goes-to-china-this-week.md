@@ -4,6 +4,7 @@ title: "Stronger ties seen Chatto goes to China this week"
 image: true
 category: top-stories
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 A stronger partnership that can draw to Bohol fresh investments and more tourists is to be pursued on Gov. Edgar Chatto visit to two important provinces in China this week.

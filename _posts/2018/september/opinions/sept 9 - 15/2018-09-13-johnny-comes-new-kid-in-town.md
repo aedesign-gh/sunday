@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'res-ipsa-loquitur'
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 We see the forthcoming enthronement of our friend and kumpadre, Johnny Orioque, (on leave) editor-publisher of the Bohol Balita Daily News (BBDN) rising into power in Trinidad town.

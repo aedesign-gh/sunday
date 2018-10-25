@@ -3,6 +3,7 @@ layout: post
 title: "Aris humbled on survey results in HNU Bohol poll"
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 By JUNE S. BLANCO

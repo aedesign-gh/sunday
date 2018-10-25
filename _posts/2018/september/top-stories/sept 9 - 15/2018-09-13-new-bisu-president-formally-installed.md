@@ -4,6 +4,7 @@ title: "New BISU president formally installed"
 image: true
 category: top-stories
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 City Mayor John Geesnell Baba Yap expressed his salutations last Friday to the new Bohol Island State University (BISU) president, Dr. RegucivillaAvenido-Pobar.

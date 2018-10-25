@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 As early as these days the air now smells of politics and election as the filing of candidacy on October for next year’s election is getting near.

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 23rd Sunday of the Year (cycle B)

@@ -3,6 +3,7 @@ layout: post
 title: "Bohol church is in tree-planting"
 category: headlines
 dated: Sept. 9 - 15, 2018
+archive: true
 ---
 
 The local church led the tree-planting activity last week as a step in helping the communities put up measures to prop up its disaster and climate change mitigation.
