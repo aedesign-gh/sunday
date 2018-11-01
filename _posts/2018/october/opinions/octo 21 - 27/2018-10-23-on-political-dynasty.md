@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'the-agora'
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 The filing of Certificate of Candidacy (COC) is over and now we know who are running for the different elective positions in the coming mid-term elections in May next year.  That is what many people are thinking.  But we won’t really know it this time because some of those who filed their COCs might decide that they made a mistake and will decide to withdraw.  Or it could be that they were just made to file their COCs bytheir political party but will be substituted by another candidate of the political party before November 29 this year.

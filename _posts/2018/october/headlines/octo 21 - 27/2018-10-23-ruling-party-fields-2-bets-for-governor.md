@@ -4,6 +4,7 @@ title: "Ruling party fields 2 bets for governor"
 image: true
 category: headlines
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 By LEO UDTOHAN

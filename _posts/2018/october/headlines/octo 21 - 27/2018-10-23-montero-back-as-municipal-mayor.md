@@ -4,6 +4,7 @@ title: "Montero back as municipal mayor"
 image: true
 category: headlines
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 PANGLAO.-The Court of Appeals (CA) finally resolved last week the mayoralty standoff here and ordered Leonila Montero reinstated as the legitimate mayor of Bohol’s premier tourist town.

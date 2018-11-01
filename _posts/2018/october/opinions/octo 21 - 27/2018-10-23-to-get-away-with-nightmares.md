@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sundry'
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 Last week, Pres. Duterte in Cabalogan, Samar, told the members of the Armed Forces of the Philippines (AFP) stationed there to kill without hesitation of those who are identified as members of the New People’s Army.

@@ -5,6 +5,7 @@ category: opinions
 image: true
 image-cat: 'sunday-reflection'
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 29th Sunday of the Ordinary Time (Cycle B)

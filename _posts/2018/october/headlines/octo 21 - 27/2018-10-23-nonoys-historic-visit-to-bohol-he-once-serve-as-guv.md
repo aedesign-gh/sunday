@@ -3,6 +3,7 @@ layout: post
 title: "Nonoy’s historic visit to Bohol he once serve as guv"
 category: headlines
 dated: Octo. 21 - 27, 2018
+archive: true
 ---
 
 By ATTY. DANDAN A. BANTUGAN
